@@ -52,5 +52,4 @@ jobs:
         kubectl get deployments
         kubectl get pods
         kubectl describe svc loadbalancer-svc12
-        kubectl logs -n my-namespace
 
