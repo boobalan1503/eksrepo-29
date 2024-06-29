@@ -51,5 +51,5 @@ jobs:
         kubectl get pods -o wide
         kubectl get deployments
         kubectl get pods
-        kubectl describe svc my-service
+        kubectl describe svc loadbalancer-svc12
 
